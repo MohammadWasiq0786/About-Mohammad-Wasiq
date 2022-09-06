@@ -15,4 +15,4 @@ Links to Connect me
 
 * Github   : **https://github.com/MohammadWasiq0786?tab=repositories**
 
-* Kaggle   : **https://www.kaggle.com/mohammadwasiqqcs<**
+* Kaggle   : **https://www.kaggle.com/mohammadwasiqqcs**
