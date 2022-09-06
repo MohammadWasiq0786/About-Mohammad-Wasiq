@@ -76,7 +76,7 @@ Links to Connect me
 | 2\.     | Physics     | Lect Hasan Raza Naqvi |
 | 3\.     | Chemistry   | Lect Mohammad Raza    |
 
-### 3. High School
+### 4. High School
 
 | Sr. No. | Subject     | Educator Name        |
 |---------|-------------|----------------------|
