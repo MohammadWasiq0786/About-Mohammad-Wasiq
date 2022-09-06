@@ -11,13 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-wasiq-198327217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad wasiq" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohammadwasiq0786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad wasiq" height="30" width="40" /></a>
-</p>
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadwasiq0786@gmail.com)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/linkedin.svg">](https://www.linkedin.com/in/mohammad-wasiq-198327217/)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/instagram.svg">](https://www.instagram.com/mohammadwasiq0786/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/kaggle1.svg">](https://www.kaggle.com/mohammadwasiqqcs)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/facebook.svg">](https://www.facebook.com/mohammad.wasiq.79)
+</p>
 
 [<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 
