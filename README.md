@@ -10,8 +10,8 @@
 
 
 
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mohammadwasiq0786@gmail.com)
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](gl0427@myamu.ac.in)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:mohammadwasiq0786@gmail.com)
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/gmail.svg">](mailto:gl0427@myamu.ac.in)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/linkedin.svg">](https://www.linkedin.com/in/mohammad-wasiq-198327217/)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/kaggle1.svg">](https://www.kaggle.com/mohammadwasiqqcs)
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/instagram.svg">](https://www.instagram.com/mohammadwasiq0786/)
