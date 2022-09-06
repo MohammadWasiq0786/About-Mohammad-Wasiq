@@ -17,3 +17,13 @@ Links to Connect me
 * Twitter  : **https://mobile.twitter.com/Mohammadwasiq0**
 
 * Kaggle   : **https://www.kaggle.com/mohammadwasiqqcs**
+
+## My Educators
+
+### 1. M.Sc (Data Science)
+* **Professor Aquil Ahmad**
+* 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
