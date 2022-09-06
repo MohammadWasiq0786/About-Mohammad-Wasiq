@@ -23,7 +23,7 @@ Links to Connect me
 ### 1. M.Sc (Data Science)
 * **Professor Aquil Ahmad**
 * 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Sr. No. | Subject      | Educator Name |
+| ------  | ------------ | ------------- |
+|         | Header       | Title         |
+|         | Paragraph    | Text          |
