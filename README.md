@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **Statistics , Data Analysis, Data Science, Machine Learning**
 
+- 📫 How to reach me **mohammadwasiq0786@gmail.com**
+
 University : **Aligarh Muslim University**
 
 Department : **Department of Statistics & Operation Research , AMU , Aligarh (202002)**
@@ -21,17 +23,14 @@ Education  : **M.Sc (Data Science),  B.Sc (Statistics)**
 <a href="https://https://www.instagram.com/mohammadwasiq0786//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad wasiq" height="30" width="40" /></a>
 </p>
 
-* LinkedIn : **https://www.linkedin.com/in/mohammad-wasiq-198327217**
 
-* Github   : **https://github.com/MohammadWasiq0786?tab=repositories**
-
-* E-mail   : **mohammadwasiq0786@gmail.com**
-
-* Twitter  : **https://mobile.twitter.com/Mohammadwasiq0**
-
-* Kaggle   : **https://www.kaggle.com/mohammadwasiqqcs**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadWasiq0786&show_icons=true&locale=en" alt="ratang94" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ratang94&" alt="ratang94" /></p>
 
 ## My Educators
 
