@@ -1,15 +1,10 @@
 # Mohammad Wasiq 
-I have completed my Graduation in **_Statistics_** 
 
-**Department of Statistics and Operation Research** 
+University : **Aligarh Muslim University**
 
-**Aligarhh Muslim University** , *Aligarh* (202002).
+Department : **Department of Statistics & Operation Research , AMU , Aligarh (202002)**
 
-Now , I am pursuing my Master's in **_Data Science_**
-
-**Department of Statistics and Operation Research** 
-
-**Aligarhh Muslim University** , *Aligarh* (202002).
+Education  : **M.Sc (Data Science),  B.Sc (Statistics)**
 
 Links to Connect me
 
