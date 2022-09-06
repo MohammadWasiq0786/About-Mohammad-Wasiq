@@ -44,10 +44,11 @@ Links to Connect me
 
 ### 2. iNeuron (Full Stack Data Science BootCamp)
 
-| Sr. No. | Educator Name           |
-|---------|-------------------------|
-| 1\.     | Sudhanshu Kumar         |
-| 2\.     | Krish Naik              |
+| Sr. No. | Subject        | Educator Name   |
+|---------|----------------|-----------------|
+| 1\.     | Python         | Sudhanshu Kumar |
+| 2\.     | MySQL, MongoDB | Sudhanshu Kumar |
+| 3\.     | Statistics     | Krish Naik      |
 
 ### 3. B.Sc (Statistics)
 
