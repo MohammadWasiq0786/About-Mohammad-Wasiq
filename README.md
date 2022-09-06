@@ -22,6 +22,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p>
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/r-logo-svg-4.svg" alt="R" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/powerbi.svg" alt="powerbi" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/tableau.svg" alt="Tableau" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/microsoft-office-2013.svg" alt="msoffice" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/rstudio-seeklogo.com.svg" alt="rstudio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+</p>
+
+
 ## My Educators
 
 ### 1. M.Sc (Data Science)
@@ -90,6 +104,7 @@
 
 I thankful to all my educators who teach me very well. Without them I am nothing.
 
+<p align = 'left' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadWasiq0786&layout=compact" alt="anushka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadWasiq0786&show_icons=true&locale=en" alt="About-Mohammad-Wasiq" /></p>
 
