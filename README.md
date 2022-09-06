@@ -17,7 +17,7 @@
 <a href="https://https://www.instagram.com/mohammadwasiq0786//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad wasiq" height="30" width="40" /></a>
 </p>
 
-[<img src="https://img.shields.io/github/followers/anushkaparadkar?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
+[<img src="https://img.shields.io/github/followers/MohammadWasiq0786?label=follow&style=social" height="22" title="Follow me" />](https://github.com/MohammadWasiq0786)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadwasiq0786@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadWasiq0786" alt="About-Mohammad-Wasiq" /> </p>
