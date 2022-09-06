@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Wasiq </h1>
 
-<h2 align="center">A Passionate Data Science and Analytics Professional with an M.Sc(Data Science) and B.Sc(Statistics) from Department of Statistics & Operation Research, Aligarh Muslim University, Aligarh (202002) India</h2>
+<h2 align="center">A Passionate Data Science and Analytics Professional with Master's in Data Science and Bachelor's in Statistics from Department of Statistics & Operation Research, Aligarh Muslim University, Aligarh (202002) India</h2>
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision/Data Science/Data Analysis/Big Data**
 
