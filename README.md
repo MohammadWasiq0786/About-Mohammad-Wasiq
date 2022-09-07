@@ -52,6 +52,11 @@
 </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot22.svg" alt="ggplot2" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/matplotlib2.svg" alt="matplotlib" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/plotly2.svg" alt="plotly" style="vertical-align:top; margin:4px">
+
 </p>
 
 
@@ -128,12 +133,3 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadWasiq0786&show_icons=true&locale=en" alt="About-Mohammad-Wasiq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadWasiq0786&" alt="About-Mohammad-Wasiq" /></p>
-
-
-
-<p>
-  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot22.svg" alt="datascience" style="vertical-align:top; margin:4px">
-</p>
-
-
-[<img src="">]
