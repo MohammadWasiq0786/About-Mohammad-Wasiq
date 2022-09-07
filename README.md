@@ -128,3 +128,16 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadWasiq0786&show_icons=true&locale=en" alt="About-Mohammad-Wasiq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadWasiq0786&" alt="About-Mohammad-Wasiq" /></p>
+
+
+
+[<img src="
+https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/seaborn.svg">]
+
+
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/plotly.svg">]
+
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot2.svg">]
+
+[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/matplotlib.svg">]
+
