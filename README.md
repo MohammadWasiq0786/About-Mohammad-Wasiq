@@ -129,3 +129,11 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadWasiq0786&" alt="About-Mohammad-Wasiq" /></p>
 
+
+
+<p>
+  <img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot22.svg" alt="datascience" style="vertical-align:top; margin:4px">
+</p>
+
+
+[<img src="">]
