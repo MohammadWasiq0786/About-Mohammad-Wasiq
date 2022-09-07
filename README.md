@@ -59,68 +59,67 @@
 
 ### 1. M.Sc (Data Science)
 
-| Sr. No. | Code       | Subject                        | Educator Name                                                                                                  |
-|--------------|--------------|-------------------------|-------------------|
-| 1\.     | DSM - 1001 | Descriptive Statistics         | [Prof Aquil Ahmad](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)               |
-| 2\.     | DSM - 1002 | Linear Algebra                 | [Prof Ahmad Yusuf Adhami](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmad-yusuf-adhami) |
-| 3\.     | DSM - 1003 | Regression Analysis            | [Prof Ahmadur Rahman](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)         |
-| 4\.     | DSM - 1004 | Probability                    | [Prof Qazi Mazhar Ali](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
-| 5\.     | DSM - 1005 | R Programming                  | [Prof Athar Ali Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
-| 6\.     | DSM - 1006 | DBMS                           | [Prof Pervez Mehmood](https://www.amu.ac.in/faculty/prof-m-n-farooqui-computer-centre/parvez-mahmood-khan)     |
-| 7\.     | DSM - 2001 | Bayesian Data Analysis         | [Prof Athar Ali Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
-| 8\.     | DSM - 2002 | Machine Learning               | [Prof Omar Farooq](https://www.amu.ac.in/faculty/electronics-engineering/omar-farooq)                          |
-| 9\.     | DSM - 2003 | Multivariate Analysis          | [Prof Ahmadur Rahman](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)         |
-| 10\.    | DSM - 2004 | Probability                    | [Prof Qazi Mazhar Ali](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
-| 11\.    | DSM - 2005 | Operations Research            | [Prof Aquil Ahmad](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)               |
-| 12\.    | DSM - 3001 | Time Series Analysis           | [Prof Athar Ali Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
-| 13\.    | DSM - 3002 | Big Data Analysis              | Prof XYZ                                                                                                       |
-| 14\.    | DSM - 3003 | Marketing Research & Analytics | [Prof Azam Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)          |
-| 15\.    | DSM - 3004 | Remotely Sensed Images         | [Prof Qazi Mazhar Ali](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
-| 16\.    | DSM - 3005 | Cloud Computing                | Prof MS                                                                                                        |
-| 17\.    | DSM - 3006 | Optional                       | Prof ABC                                                                                                       |
+| **Sr. No.** | **Code**   | **Subject**                        | **Educator Name**                                                                                                  |
+|----------------|----------------|-----------------------|-------------------|
+| 1\.         | DSM - 1001 | **Descriptive Statistics**         | [**Prof Aquil Ahmad**](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)               |
+| 2\.         | DSM - 1002 | **Linear Algebra**                 | [**Prof Ahmad Yusuf Adhami**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmad-yusuf-adhami) |
+| 3\.         | DSM - 1003 | **Regression Analysis**            | [**Prof Ahmadur Rahman**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)         |
+| 4\.         | DSM - 1004 | **Probability**                    | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
+| 5\.         | DSM - 1005 | \*\*R Programming                  | [**Prof Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
+| 6\.         | DSM - 1006 | **DBMS**                           | [**Prof Pervez Mehmood**](https://www.amu.ac.in/faculty/prof-m-n-farooqui-computer-centre/parvez-mahmood-khan)     |
+| 7\.         | DSM - 2001 | **Bayesian Data Analysis**         | [**Prof Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
+| 8\.         | DSM - 2002 | **Machine Learning**               | [**Prof Omar Farooq**](https://www.amu.ac.in/faculty/electronics-engineering/omar-farooq)                          |
+| 9\.         | DSM - 2003 | **Multivariate Analysis**          | [**Prof Ahmadur Rahman**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)         |
+| 10\.        | DSM - 2004 | **Probability**                    | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
+| 11\.        | DSM - 2005 | **Operations Research**            | [**Prof Aquil Ahmad**](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)               |
+| 12\.        | DSM - 3001 | **Time Series Analysis**           | [**Prof Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
+| 13\.        | DSM - 3002 | **Big Data Analysis**              | **Prof XYZ**                                                                                                       |
+| 14\.        | DSM - 3003 | **Marketing Research & Analytics** | [**Prof Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)          |
+| 15\.        | DSM - 3004 | **Remotely Sensed Images**         | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
+| 16\.        | DSM - 3005 | **Cloud Computing**                | **Prof MS**                                                                                                        |
+| 17\.        | DSM - 3006 | **Optional**                       | **Prof ABC**                                                                                                       |
 
 ### 2. iNeuron (Full Stack Data Science BootCamp)
 
-| Sr. No. | Subject        | Educator Name                                                                         |
-|---------|----------------|---------------------------------------------------------------------------------------|
-| 1\.     | Python         | [Sudhanshu Kumar](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
-| 2\.     | MySQL, MongoDB | [Sudhanshu Kumar](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
-| 3\.     | Statistics     | [Krish Naik](https://www.linkedin.com/in/naikkrish/?originalSubdomain=in)             |
+| **Sr. No.** | **Subject**        | **Educator Name**                                                                         |
+|------------|------------|------------------------------------------------|
+| 1\.         | **Python**         | [**Sudhanshu Kumar**](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
+| 2\.         | **MySQL, MongoDB** | [**Sudhanshu Kumar**](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
+| 3\.         | **Statistics**     | [**Krish Naik**](https://www.linkedin.com/in/naikkrish/?originalSubdomain=in)             |
 
 ### 3. B.Sc (Statistics)
 
-| Sr. No. | Code      | Subject                       | Educator Name                                                                                                        |
-|--------------|--------------|-------------------------|-------------------|
-| 1\.     | STB - 151 | Descriptive Statistics        | [Prof Qazi Mazhar Ali](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
-| 2\.     | STB - 251 | Probability                   | [Prof Mohd Faizan](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohd-faizan-7)                   |
-| 3\.     | STB - 351 | Sampling Distribution         | [Prof Fatima Siddiqui](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
-| 4\.     | STB - 451 | Survey Sampling               | [Prof Fatima Siddiqui](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
-| 5\.     | STB - 551 | Statistical Inference         | [Prof Haseeb Athar](https://www.amu.ac.in/faculty/statistics-and-operations-research/haseeb-athar)                   |
-| 6\.     | STB - 552 | Linear Models                 | [Prof Yasmeen Khan](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074750)                                   |
-| 7\.     | STB - 553 | Operations Research           | [Prof Aquil Ahmad](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)                     |
-| 8\.     | STB - 554 | Demography & Vital Statistics | [Prof M Jahangir S Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohd-jahangir-sabbir-khan) |
-| 9\.     | STB - 555 | R Programming                 | [Prof Athar Ali Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)               |
-| 10\.    | STB - 651 | Econometrics                  | [Prof Ahmadur Rahman](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)               |
-| 11\.    | STB - 652 | C / C++                       | [Prof Fatima Siddiqui](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
-| 12\.    | STB - 653 | Statistical Quality Control   | [Prof Sheema Sadia](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10077074)                                   |
-| 13\.    | STB - 654 | Design of Experiment          | [Prof Azam Khan](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)                |
-| 14\.    | STB - 6S1 | Project                       | [Prof Qazi Mazhar Ali](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
-
+| **Sr. No.** | **Code**  | **Subject**                       | **Educator Name**                                                                                                        |
+|----------------|----------------|-----------------------|-----------------|
+| 1\.         | STB - 151 | **Descriptive Statistics**        | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
+| 2\.         | STB - 251 | **Probability**                   | [**Prof Mohd Faizan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohd-faizan-7)                   |
+| 3\.         | STB - 351 | **Sampling Distribution**         | [**Prof Fatima Siddiqui**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
+| 4\.         | STB - 451 | **Survey Sampling**               | [**Prof Fatima Siddiqui**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
+| 5\.         | STB - 551 | **Statistical Inference**         | [**Prof Haseeb Athar**](https://www.amu.ac.in/faculty/statistics-and-operations-research/haseeb-athar)                   |
+| 6\.         | STB - 552 | **Linear Models**                 | [**Prof Yasmeen Khan**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074750)                                   |
+| 7\.         | STB - 553 | **Operations Research**           | [**Prof Aquil Ahmad**](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)                     |
+| 8\.         | STB - 554 | **Demography & Vital Statistics** | [**Prof M Jahangir S Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohd-jahangir-sabbir-khan) |
+| 9\.         | STB - 555 | **R Programming**                 | [**Prof Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)               |
+| 10\.        | STB - 651 | **Econometrics**                  | [**Prof Ahmadur Rahman**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)               |
+| 11\.        | STB - 652 | **C / C++**                       | [**Prof Fatima Siddiqui**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
+| 12\.        | STB - 653 | **Statistical Quality Control**   | [**Prof Sheema Sadia**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10077074)                                   |
+| 13\.        | STB - 654 | Design of Experiment              | [**Prof Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)                |
+| 14\.        | STB - 6S1 | Project                           | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
 
 ### 4. Intermediate
 
-| Sr. No. | Subject     | Educator Name         |
-|---------|-------------|-----------------------|
-| 1\.     | Mathematics | Lect. Abdul Muttalib  |
-| 2\.     | Physics     | Lect Hasan Raza Naqvi |
-| 3\.     | Chemistry   | Lect Mohammad Raza    |
+| **Sr. No.** | **Subject**     | **Educator Name**         |
+|-------------|-----------------|---------------------------|
+| 1\.         | **Mathematics** | **Lect. Abdul Muttalib**  |
+| 2\.         | **Physics**     | **Lect Hasan Raza Naqvi** |
+| 3\.         | **Chemistry**   | **Lect Mohammad Raza**    |
 
 ### 5. High School
 
-| Sr. No. | Subject     | Educator Name        |
-|---------|-------------|----------------------|
-| 1\.     | Science     | Lect Mohammad Raza   |
-| 2\.     | Mathematics | Lect. Abdul Muttalib |
+| **Sr. No.** | **Subject**     | **Educator Name**        |
+|-------------|-----------------|--------------------------|
+| 1\.         | **Science**     | **Lect Mohammad Raza**   |
+| 2\.         | **Mathematics** | **Lect. Abdul Muttalib** |
 
 I thankful to all my educators who teach me very well. Without them I am nothing.
 
