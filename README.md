@@ -131,16 +131,6 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 
 
-[<img src="
-https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/seaborn.svg">]
-
-
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/plotly.svg">]
-
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot2.svg">]
-
-[<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/matplotlib.svg">]
-
 
 [<img src="https://github.com/MohammadWasiq0786/About-Mohammad-Wasiq/blob/main/Assets/ggplot22.svg
 ">](https://www.facebook.com/mohammad.wasiq.79)
