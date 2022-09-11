@@ -8,7 +8,7 @@
 
 <h2 align="center">I'm a Data Science and Data Analytics Enthusiast with Master's in Data Science and Bachelor's in Statistics</h2>
 
-## [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
+## $\quad \quad$ [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
 
 ## [Aligarh Muslim University, Aligarh(202002), India](https://www.amu.ac.in/)
 
