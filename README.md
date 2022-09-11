@@ -10,6 +10,9 @@
 <h2 align="center">[Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)</h2>
 <h2 align="center">[Aligarh Muslim University](https://www.amu.ac.in/), Aligarh (202002) India</h2>
 
+## [Department of Statistics & Operation Research](https://www.amu.ac.in/department/statistics-and-operations-research)
+## [Aligarh Muslim University](https://www.amu.ac.in/), Aligarh (202002) India
+
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision/Data Science/Data Analysis/Big Data**
 
 - 💬 Ask me about **Statistics , Data Analysis, Data Science, Machine Learning**
