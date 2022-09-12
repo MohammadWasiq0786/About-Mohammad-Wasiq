@@ -189,6 +189,6 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 ---------
 
-- 📫 [**Location :**](https://www.google.com/search?q=amu+map+location+coordinates&rlz=1C1UEAD_enIN1022IN1022&oq=amu+map+locat&aqs=chrome.2.69i57j33i10i160l2.7067j0j15&sourceid=chrome&ie=UTF-8#)
+- 📫 [**Location :**](https://www.google.com/maps/@27.9135016,78.0781901,2568m/data=!3m1!1e3)
 
 ---------
