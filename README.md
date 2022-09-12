@@ -189,33 +189,6 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 ---------
 
-- 📫 Location
+- 📫 [**Location :**](https://www.google.com/search?q=amu+map+location+coordinates&rlz=1C1UEAD_enIN1022IN1022&oq=amu+map+locat&aqs=chrome.2.69i57j33i10i160l2.7067j0j15&sourceid=chrome&ie=UTF-8#)
 
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-19,72],
-              [-19,72],
-              [-19,72],
-              [-19,73],
-              [-19,72]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
- 
 ---------
