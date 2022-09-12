@@ -191,31 +191,5 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 - 📫 Location
 
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-19,72],
-              [-19,72],
-              [-19,72],
-              [-19,73],
-              [-19,72]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
  
 ---------
