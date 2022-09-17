@@ -118,11 +118,11 @@
 | 10\.        | DSM - 2004 | **Probability**                    | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
 | 11\.        | DSM - 2005 | **Operations Research**            | [**Prof Aquil Ahmad**](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)               |
 | 12\.        | DSM - 3001 | **Time Series Analysis**           | [**Prof Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
-| 13\.        | DSM - 3002 | **Big Data Analysis**              | **Prof XYZ**                                                                                                       |
+| 13\.        | DSM - 3002 | **Big Data Analysis**              | [**Prof Zahid Ansari**](https://www.amu.ac.in/faculty/electrical-engineering-section/zahid-ansari)                                                                                                       |
 | 14\.        | DSM - 3003 | **Marketing Research & Analytics** | [**Prof Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)          |
 | 15\.        | DSM - 3004 | **Remotely Sensed Images**         | [**Prof Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
-| 16\.        | DSM - 3005 | **Cloud Computing**                | **Prof MS**                                                                                                        |
-| 17\.        | DSM - 3006 | **Optional**                       | **Prof ABC**                                                                                                       |
+| 16\.        | DSM - 3005 | **Cloud Computing**                | [**Prof Mohammad Shahid**](https://www.amu.ac.in/faculty/commerce/mohammad-shahid)                                                                                                        |
+| 17\.        | DSM - 3006 | **BlockChain(OE)**                 | [**Prof Mohammad Sajid**](https://www.amu.ac.in/faculty/computer-science/mohammad-sajid)                                                                                                       |
 
 ### 2. iNeuron (Full Stack Data Science BootCamp)
 
