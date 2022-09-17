@@ -110,7 +110,7 @@
 | 2\.         | DSM - 1002 | **Linear Algebra**                 | [**Prof. Ahmad Yusuf Adhami**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmad-yusuf-adhami) |
 | 3\.         | DSM - 1003 | **Regression Analysis**            | [**Prof. Ahmadur Rahman**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)         |
 | 4\.         | DSM - 1004 | **Probability**                    | [**Prof. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
-| 5\.         | DSM - 1005 | \*\*R Programming                  | [**Prof. Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
+| 5\.         | DSM - 1005 | **R Programming**                  | [**Prof. Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
 | 6\.         | DSM - 1006 | **DBMS**                           | [**Prof. Pervez Mehmood**](https://www.amu.ac.in/faculty/prof-m-n-farooqui-computer-centre/parvez-mahmood-khan)     |
 | 7\.         | DSM - 2001 | **Bayesian Data Analysis**         | [**Prof. Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)         |
 | 8\.         | DSM - 2002 | **Machine Learning**               | [**Prof. Omar Farooq**](https://www.amu.ac.in/faculty/electronics-engineering/omar-farooq)                          |
