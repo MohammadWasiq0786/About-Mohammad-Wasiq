@@ -102,7 +102,7 @@
 
 ## My Educators
 
-### 1. M.Sc (Data Science)
+### 1. MS (Data Science)
 
 | **Sr. No.** | **Code**   | **Subject**                        | **Educator Name**                                                                                                  |
 |----------------|----------------|-----------------------|-------------------|
@@ -132,7 +132,7 @@
 | 2\.         | **MySQL, MongoDB** | [**Sudhanshu Kumar**](https://www.linkedin.com/in/-sudhanshu-kumar/?originalSubdomain=in) |
 | 3\.         | **Statistics**     | [**Krish Naik**](https://www.linkedin.com/in/naikkrish/?originalSubdomain=in)             |
 
-### 3. B.Sc (Statistics)
+### 3. BSc (Statistics)
 
 | **Sr. No.** | **Code**  | **Subject**                       | **Educator Name**                                                                                                        |
 |----------------|----------------|-----------------------|-----------------|
