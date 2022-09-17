@@ -122,7 +122,7 @@
 | 14\.        | DSM - 3003 | **Marketing Research & Analytics** | [**Prof. Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)          |
 | 15\.        | DSM - 3004 | **Remotely Sensed Images**         | [**Prof. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)       |
 | 16\.        | DSM - 3005 | **Cloud Computing**                | [**Prof. Mohammad Shahid**](https://www.amu.ac.in/faculty/commerce/mohammad-shahid)                                                                                                        |
-| 17\.        | DSM - 3006 | **BlockChain (OE)**                | [**Prof. Mohammad Sajid**](https://www.amu.ac.in/faculty/computer-science/mohammad-sajid)                                                                                                       |
+| 17\.        | DSM - 3091 | **BlockChain (OE)**                | [**Prof. Mohammad Sajid**](https://www.amu.ac.in/faculty/computer-science/mohammad-sajid)                                                                                                       |
 
 ### 2. iNeuron (Full Stack Data Science BootCamp)
 
