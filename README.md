@@ -148,8 +148,8 @@
 | 10\.        | STB - 651 | **Econometrics**                  | [**Prof. Ahmadur Rahman**](https://www.amu.ac.in/faculty/statistics-and-operations-research/ahmadur-rahman)               |
 | 11\.        | STB - 652 | **C / C++**                       | [**Prof. Fatima Siddiqui**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10074998)                                |
 | 12\.        | STB - 653 | **Statistical Quality Control**   | [**Prof. Sheema Sadia**](https://old.amu.ac.in/dshowfacultydata.jsp?did=7&eid=10077074)                                   |
-| 13\.        | STB - 654 | Design of Experiment              | [**Prof. Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)                |
-| 14\.        | STB - 6S1 | Project                           | [**Prof. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
+| 13\.        | STB - 654 | **Design of Experiment**          | [**Prof. Azam Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/mohammad-azam-khan)                |
+| 14\.        | STB - 6S1 | **Project**                       | [**Prof. Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)             |
 
 ### 4. Intermediate
 
