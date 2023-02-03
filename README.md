@@ -21,7 +21,7 @@
 -----------
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Science+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=FF0000&center=true&lines=Data+Science+Enthusiast'/>
 </div>
 
 -----------
@@ -185,7 +185,7 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 <h2 align="center">Activity Graph </h2>
 
-[![Mohammad Wasiq github activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadWasiq0786&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/MohammadWasiq0786?tab=repositories/github-readme-activity-graph)
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
 
 ---------
 
