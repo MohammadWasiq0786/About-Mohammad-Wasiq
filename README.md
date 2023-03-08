@@ -197,7 +197,7 @@ I thankful to all my educators who teach me very well. Without them I am nothing
 
 <h2 align="center">Activity Graph </h2>
 
-![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadwasiq0&theme=vue)
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadWasiq0786&theme=vue)
 
 ---------
 
